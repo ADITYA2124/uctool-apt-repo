@@ -1,3 +1,21 @@
-*.deb
-*.gz
-*.log
+# Ignore build/ and out/ directories
+build/
+out/
+
+# Ignore object files
+*.o
+
+# Ignore executables
+*.out
+*.exe
+
+# Ignore generated files from Flex
+lex.yy.c
+
+# Ignore temporary or IDE files
+*.swp
+.vscode/
+.idea/
+
+# Ignore system files
+.DS_Store
