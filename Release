@@ -1,7 +1,13 @@
-echo "Origin: uctool-repo
-Label: uctool-repo
-Suite: stable
-Codename: focal
-Architectures: amd64
-Components: main
-Description: APT repository for uctool"
+Date: Wed, 16 Apr 2025 17:34:02 +0000
+MD5Sum:
+ 932c867b04f1edf01d715dde14f71b29              401 Packages.gz
+ 6d2076f3cb1c42fba886e382d9db3cdb               38 Release
+SHA1:
+ 8c84ed7c4af67968dac1b91a0ba2e864376736b7              401 Packages.gz
+ 04dd826972317d6e91c88de05e999126ad4f7896               38 Release
+SHA256:
+ a958a3e54759a15d83d25324e140e51d05dc805e2cc3b3f367757d5ce88497c7              401 Packages.gz
+ 8d42fafb5a167628bfc3f5b07759f0b9decf1b7a2f87d1fb090281ef782e8b36               38 Release
+SHA512:
+ 92ee6f7df10219fbc4d3e92f8ee81a7e51e73656ac4899fc749e66775acd8c651544a433086a2ff8bc9e24d5fc8d3a742561ff47551d9db66b43eef90496b0d0              401 Packages.gz
+ 8bffa4e2ff6570520b421e97f1c091e392c2708f5f77200a8976fb32bd4431c3b724dc9fc34b4cf79f61f404c20e1315029bc18b51ed81797572829435e5aa8f               38 Release
